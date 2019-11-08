@@ -1,0 +1,6 @@
+courseWorkspace/typescript-complete-course/.idea/
+courseWorkspace/typescript-complete-course/node_modules/
+courseWorkspace/typescript-complete-course/package-lock.json
+courseWorkspace/typescript-complete-course/app.js
+courseWorkspace/typescript-complete-course/*.js
+courseWorkspace/typescript-complete-course/math/*.js

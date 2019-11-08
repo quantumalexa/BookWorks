@@ -1,0 +1,19 @@
+prerequisite to have node installed
+update to latest version of npm
+npm i -g npm
+install latest typescript version
+npm -g install typescript
+compile ts to js
+tsc script.ts
+
+for webstorm terminal setup folder structure
+put project under control of node in your
+npm init  (defaults for all prompts)
+install lite-server dev mode not deployed or dependent
+npm install lite-server --save-dev
+
+add start to scripts in package.json
+npm start then runs it
+
+automatically compile ts to js
+tsc --init 
